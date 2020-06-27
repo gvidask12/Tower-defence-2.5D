@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9277b494e47790942bfd92202811574a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - targetGoal: {instanceID: 0}
+  - objectToPan: {instanceID: 0}
+  - goalParticles: {instanceID: 0}
+  - enemyGoalAudioClip: {instanceID: 0}
+  - gameOverUI: {fileID: 6724772843602205782, guid: 7fa23859d36056a40a0ab5d9a087132b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

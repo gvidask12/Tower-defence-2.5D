@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 20db519e39421ca45af9aaea18ac0f41
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clearface ITC BQ
+  fontNames:
+  - Clearface ITC BQ
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3bd399b588f12784aa0d1be1d1bfef13, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
